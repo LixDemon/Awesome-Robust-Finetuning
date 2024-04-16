@@ -12,7 +12,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 - [Contributing \& Contact](#contributing--contact)
 
 # Papers
-> We list papers, implementation code, etc, in the order of year and from journals to conferences.
+> We list papers and the implementation code.
 
 * Robust fine-tuning of zero-shot models [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Wortsman_Robust_Fine-Tuning_of_Zero-Shot_Models_CVPR_2022_paper.pdf)] [[Code](https://github.com/mlfoundations/wise-ft)]
 * Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution [[ICLR 2022](https://openreview.net/pdf?id=UYneFzXSJWh)]
