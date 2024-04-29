@@ -22,6 +22,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * Fast Trainable Projection for Robust Fine-Tuning [[NeurIPS 2023](https://openreview.net/pdf?id=Tb7np0MInj)] [[Code](https://github.com/GT-RIPL/FTP)]
 * Context-Aware Robust Fine-Tuning [[IJCV 2023](https://link.springer.com/article/10.1007/s11263-023-01951-2)]
 * AutoFT: Robust Fine-Tuning by Optimizing Hyperparameters on OOD Data [[arXiv 2024](https://arxiv.org/pdf/2401.10220.pdf)]
+* Anchor-based Robust Finetuning of Vision-Language Models [[CVPR 2024](https://arxiv.org/pdf/2404.06244.pdf)]
 
 
 # Contributing & Contact
