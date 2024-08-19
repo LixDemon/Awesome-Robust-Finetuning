@@ -21,6 +21,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * Trainable Projected Gradient Method for Robust Fine-tuning [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_Trainable_Projected_Gradient_Method_for_Robust_Fine-Tuning_CVPR_2023_paper.pdf)] [[Code](https://github.com/PotatoTian/TPGM)]
 * Fast Trainable Projection for Robust Fine-Tuning [[NeurIPS 2023](https://openreview.net/pdf?id=Tb7np0MInj)] [[Code](https://github.com/GT-RIPL/FTP)]
 * Geodesic Multi-Modal Mixup for Robust Fine-Tuning [[NeurIPS 2023](https://arxiv.org/pdf/2203.03897)] [[Code](https://github.com/changdaeoh/multimodal-mixup)]
+* Towards Calibrated Robust Fine-Tuning of Vision-Language Models [[NeurIPS 2023](https://arxiv.org/pdf/2311.01723)] [[Code](https://anonymous.4open.science/r/carot2024-BB43)]
 * Context-Aware Robust Fine-Tuning [[IJCV 2023](https://link.springer.com/article/10.1007/s11263-023-01951-2)]
 * AutoFT: Robust Fine-Tuning by Optimizing Hyperparameters on OOD Data [[arXiv 2024](https://arxiv.org/pdf/2401.10220.pdf)]
 * Anchor-based Robust Finetuning of Vision-Language Models [[CVPR 2024](https://arxiv.org/pdf/2404.06244.pdf)]
